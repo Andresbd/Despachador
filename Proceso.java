@@ -2,7 +2,7 @@ public class Proceso {
 
     int id, prioridad, tiempo;
 
-    public proceso(int id) {
+    public Proceso(int id) {
         this.id = id;
     }
 
