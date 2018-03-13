@@ -13,9 +13,4 @@ public class Proceso {
     public void Tiempo(int ti) {
         tiempo = ti;
     }
-
-    public void printProceso() {
-        System.out.println(prioridad);
-        System.out.println(tiempo);
-    }
 }

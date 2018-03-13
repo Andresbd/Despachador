@@ -7,6 +7,5 @@ public class Despachador {
             Proceso p = new Proceso(1);
             p.Prioridad(5);
             p.Tiempo(20);
-            p.printProceso();
     }
 }
